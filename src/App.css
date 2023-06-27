@@ -1,0 +1,128 @@
+nav  {
+   display: flex;
+background-color: rgb(92, 96, 96);
+ height:fit-content;
+ width: auto;
+ margin:0px;
+}
+
+ul{
+   display:flex;
+   margin-left:70% ;
+}
+li{
+   margin: 5px 5px 5px 5px;
+   padding: 5px 5px 5px 5px;
+   list-style-type: none;
+   font-family:'Times New Roman', Times, serif;
+}
+.x {
+   width: 150px;
+   height: 25px;
+   background-color:rgb(255, 255, 255);
+   border: 0px double rgb(107, 105, 105);
+   border-radius: 13px;
+   margin-top:5px; margin-left: 8px;
+}
+.y{
+   background-color: rgb(54, 49, 114);
+   color: rgb(255, 255, 255);
+   width: 70px;
+   height: 32px;
+   border: 2px  rgb(208, 172, 172);
+   border-radius: 10px;
+   margin-left:10px;
+}
+
+.container{
+   display: flex;
+   
+   background-color: rgb(92, 96, 96); ;
+   margin: 10px 10px 10px 10px;
+   width: auto;
+   height: fit-content;
+   text-align:center;
+
+
+}
+p{
+   text-align: center;
+   margin-left: 30%;
+}
+.btn1{
+   
+  margin-left: 40%;
+   background-color: rgb(12, 137, 54);
+   color: rgb(255, 255, 255);
+   width: 90px;
+   height: 32px;
+   border: 2px ;
+   border-radius: 10px;
+   margin-top: 10px;
+   
+   
+
+}
+.btn2{
+   
+   background-color: rgb(147, 31, 31);
+   color: rgb(255, 255, 255);
+   width: 100px;
+   height: 32px;
+   border: 2px dotted rgb(144, 34, 34);
+   border-radius: 10px;
+   margin: 10px;
+   
+}
+.ftr{
+   background-color:rgb(54, 54, 59);
+   border-radius: 2px;
+   border-style: groove;
+   border-color:rgb(132, 113, 113) ;
+   text-align: center;
+   color: rgb(0, 0, 0);
+}
+
+
+.frm{
+   /* background-image:url(C:\Users\ankit\OneDrive\Pictures\Documents\Desktop\react\todos\public\todoimg.webp) ; */
+   font-family:cursive;
+   background-color: rgb(105, 108, 108);
+   min-height: 100vh;
+  
+   width: 100%;
+   margin-top:40px;
+
+}
+.in{
+ width: 100%;
+ height: 20px;
+ border: 2px  hidden white;
+ border-radius: 5px;
+ background-color:rgb(163, 159, 153);
+ 
+}
+.sbt{
+   font-weight:bolder;
+   text-shadow: 2px;
+   background-color: rgb(54, 181, 62);
+   margin-top:5px;
+   margin-right:0px;
+  border: 3px  double white;
+   height: 35px;
+   width: 80px;
+   border-radius: 3px;
+   
+}
+#addspace{
+ margin: 5px;
+ padding-top:5px;
+ padding-bottom:2px ;
+ text-align:justify;
+}
+.abt{
+   margin: 5px;
+   padding:2px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
